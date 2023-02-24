@@ -5,7 +5,7 @@ version: [[ .Version ]]
 appVersion: 1.0.0
 annotations:
   application.giantswarm.io/team: "phoenix"
-home: https://github.com/giantswarm/irsa_servicemonitors_app
+home: https://github.com/giantswarm/irsa-servicemonitors-app
 keywords:
   - monitoring
 restrictions:
