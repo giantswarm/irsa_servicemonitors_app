@@ -1,6 +1,6 @@
 apiVersion: v2
 description: IRSA ServiceMonitors
-name: irsa-servicemonitors-app
+name: irsa-servicemonitors
 version: [[ .Version ]]
 appVersion: 1.0.0
 annotations:
