@@ -9,9 +9,12 @@ and this project's packages adheres to [Semantic Versioning](http://semver.org/s
 
 ## [0.0.1] - 2023-02-24
 
+## [0.0.1] - 2023-02-24
+
 ### Added
 
 - Create ServiceMonitors to scrape IRSA
 
 
-[Unreleased]: https://github.com/giantswarm/irsa-servicemonitors-app/compare/v0.0.0...HEAD
+[Unreleased]: https://github.com/giantswarm/irsa-servicemonitors-app/compare/v0.0.1...HEAD
+[0.0.1]: https://github.com/giantswarm/irsa-servicemonitors-app/compare/v0.0.0...v0.0.1
