@@ -2,7 +2,6 @@ apiVersion: monitoring.coreos.com/v1
 kind: ServiceMonitor
 metadata:
   labels:
-    application.giantswarm.io/team: {{ .Values.team }}
     {{- include "irsa-servicemonitors.labels" . | nindent 4 }}
   name: prometheus-blackbox-exporter-http-irsawebhook
   namespace: kube-system
