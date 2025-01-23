@@ -7,6 +7,12 @@ and this project's packages adheres to [Semantic Versioning](http://semver.org/s
 
 ## [Unreleased]
 
+### Changed
+
+- Migrate to App Build Suite (ABS)
+- Update CircleCI config to use app-build-suite executor
+- Add serviceType to values.yaml
+
 ## [0.1.0] - 2024-06-25
 
 ## [0.0.1] - 2023-02-24

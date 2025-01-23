@@ -1,3 +1,5 @@
+serviceType: managed
+
 cluster:
   kubernetes:
     clusterDomain: cluster.local
